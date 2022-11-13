@@ -21,7 +21,7 @@ for i in range (n):
 	t[i+1]=t[i]+dt
 
 
-plt.plot(t,y,color='red',label='N vs Time')
+plt.plot(t,y,color='White',label='N vs Time')
 plt.title('RADIOACTIVE DECAY by Tuhin Bidyanta')
 plt.legend()
 plt.show()
